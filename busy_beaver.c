@@ -16,4 +16,4 @@
      /2&(x/=2)%2&&(c=P(t,c),u=S(4,               13,-4,t),t=9);{return a=P(P(t,P(u,
        P(x,c))),a);}}main(arg){                     int g=99;for(int i=0;i<D(D(D
           (D(D(D(99))))));i                             ++){g=D(g);};return g
-             ;}/*Big-ass                                   Fuckin' Number*/
+             ;}/*Loader's                                   Coquand Number*/
